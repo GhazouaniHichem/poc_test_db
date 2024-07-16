@@ -1,0 +1,22 @@
+table_schema,table_name,column_id,column_name,data_type,datetime_precision
+public,pc_account_view,12,updatetime,timestamp without time zone,6.0
+public,pc_account_view,23,closedate,timestamp without time zone,6.0
+public,pc_account_view,40,targetdate,timestamp without time zone,6.0
+public,pc_accountaccount_view,5,effectivedate,timestamp without time zone,6.0
+public,pc_accountaccount_view,7,updatetime,timestamp without time zone,6.0
+public,pc_accountaccount_view,8,closedate,timestamp without time zone,6.0
+public,pc_activity_view,9,targetdate,timestamp without time zone,6.0
+public,pc_activity_view,10,effectivedate,timestamp without time zone,6.0
+public,pc_activity_view,43,updatetime,timestamp without time zone,6.0
+public,pc_activity_view,44,closedate,timestamp without time zone,6.0
+public,pc_activity_view,46,targetdate,timestamp without time zone,6.0
+public,pc_activity_view,19,effectivedate,timestamp without time zone,6.0
+public,pc_activity_view,7,createtime,timestamp without time zone,6.0
+public,pc_address_view,2,updatetime,timestamp without time zone,6.0
+public,pc_address_view,3,closedate,timestamp without time zone,6.0
+public,pc_address_view,4,targetdate,timestamp without time zone,6.0
+public,pc_address_view,23,effectivedate,timestamp without time zone,6.0
+public,pc_address_view,24,validuntil,timestamp without time zone,6.0
+public,pc_address_view,25,createtime,timestamp without time zone,6.0
+public,COMPANY,1,AGE,VARCHAR(50),
+public,COMPANY,2,SALARY,VARCHAR(50),
