@@ -29,7 +29,7 @@ def find_java_files_with_database_names(root_directory, excel_file):
 
 
 
-root_directory = 'Java-app'
+root_directory = 'hiber'
 excel_file = 'table.xlsx'
 matched_files = find_java_files_with_database_names(root_directory, excel_file)
 
